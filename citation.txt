@@ -1,0 +1,9 @@
+@article{REPO-121,
+    author = "Xun, Yaling and Zhang, Jifu and Qin, Xiao and Zhao, Xujun",
+    journal = "IEEE Transactions on parallel and distributed systems",
+    number = "1",
+    pages = "101--114",
+    title = "{FiDoop-DP: Data Partitioning in Frequent Itemset Mining on Hadoop Clusters}",
+    volume = "28",
+    year = "2016"
+}
